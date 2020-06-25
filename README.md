@@ -1,1 +1,1 @@
-# Literature-Generator
+# Haiku-Generator
